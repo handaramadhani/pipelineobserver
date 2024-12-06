@@ -1,0 +1,23 @@
+# Node modules folder
+node_modules/
+
+# Build output folder
+/public/css/*.css
+/dist/
+
+# Log files
+*.log
+
+# System files (specific to macOS and Windows)
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# PHP session and cache files
+*.session
+*.cache
+
+# .env file (for sensitive environment variables)
+.env
